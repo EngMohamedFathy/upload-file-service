@@ -31,7 +31,7 @@ Download and install docker and docker-compose
 ### 2. Clone repository and run docker compose up
 ```bash
 ### 1. Clone repository
-git clone https://github.com/your-username/upload-service.git
+git clone https://github.com/EngMohamedFathy/upload-file-service.git
 cd upload-service
 
 ### 2. Copy .env file
@@ -49,7 +49,7 @@ App will be available at:
 ### Clone repository and manual run
 ```bash
 ### 1. Clone repository
-git clone https://github.com/your-username/upload-service.git
+git clone https://github.com/EngMohamedFathy/upload-file-service.git
 cd upload-service
 
 ### 2. Copy .env file
