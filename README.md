@@ -32,7 +32,7 @@ Download and install docker and docker-compose
 ```bash
 ### 1. Clone repository
 git clone https://github.com/EngMohamedFathy/upload-file-service.git
-cd upload-service
+cd upload-file-service
 
 ### 2. Copy .env file
 cp .env.example .env
@@ -42,7 +42,7 @@ docker-compose up --build -d
 ```
 
 App will be available at:
-👉 [http://localhost:9090](http://localhost:8000)
+👉 [http://localhost:9090](http://localhost:9090)
 
 ## ⚙️ Installation & Run (Manual)
 
@@ -50,7 +50,7 @@ App will be available at:
 ```bash
 ### 1. Clone repository
 git clone https://github.com/EngMohamedFathy/upload-file-service.git
-cd upload-service
+cd upload-file-service
 
 ### 2. Copy .env file
 cp .env.example .env
@@ -69,7 +69,7 @@ php artisan schedule:work
 ```
 
 App will be available at:
-👉 [http://localhost:9090](http://localhost:8000)
+👉 [http://localhost:9090](http://localhost:9090)
 
 ---
 
